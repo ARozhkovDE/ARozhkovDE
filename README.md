@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hello there! I'm Rozhkov Aleksandr 👋
+
+- 👀 I’m interested in Data engineering
+- 📫 How to reach me: @Rozhkov_AO
 
 <!--
 **ARozhkovDE/ARozhkovDE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
